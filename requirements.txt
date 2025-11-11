@@ -1,0 +1,6 @@
+torch>=2.0
+torchvision>=0.15
+matplotlib>=3.7
+numpy>=1.25
+gymnasium[atari,accept-rom-license]>=0.29
+autorom>=0.6
